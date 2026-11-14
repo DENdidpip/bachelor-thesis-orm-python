@@ -18,8 +18,8 @@ public class NewMain {
 
     // Ilustruje generovany kluc
     public static void main(String[] args) {
-        verzia1();
-//        verzia2();
+//        verzia1();
+        verzia2();
     }
 
     // Nasledujuce verzie aplikacie ilustruju persistence context, 
